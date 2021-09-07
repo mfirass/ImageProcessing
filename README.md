@@ -1,5 +1,6 @@
-//******* Vous pouvez lancer et tester ce projet à travers le fichier "Project.py" *******//
-//******* FIRASS Mohammed | Master SIR *******//
+<h3> //This README file is written in French </h3>
+<h3> //******* Vous pouvez lancer et tester ce projet à travers le fichier "Project.py" *******// </h3>
+<h3> //******* FIRASS Mohammed | Master SIR *******// </h3>
 
 Ce projet est réalisé dans le cadre de module : "Traitement d'Image" (Master SIR).
 
